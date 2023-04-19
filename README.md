@@ -6,3 +6,5 @@ apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/mrjock
 #Acessa Root
 
 wget https://raw.githubusercontent.com/mrjockernet/SSHPLUS/main/senharoot.sh && chmod 777 senharoot.sh && ./senharoot.sh
+
+Script Gerenciador de vps modificado pelo @mrjockernet
